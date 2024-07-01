@@ -13,7 +13,7 @@ global.confirmCode = ""
 global.owner = [
   ['51966254634', 'Richetti', true],
   ['56941827124', 'Geripium', true],
-  ['18093040329', 'Natham', true],
+  ['18093040329', 'HappyMan', true],
   ['51966254634', 'Richetti', true],
   ['51966254634', 'Richetti', true],
   ['51966254634', 'Richetti', true],
@@ -40,12 +40,12 @@ global.owner = [
 global.suittag = ['51966254634'];
 global.prems = ['51966254634'];
 
-global.packname = 'NathamBot';
-global.author = 'NathamBot';
-global.wm = 'NathamBot';
-global.titulowm = 'NathamBot';
-global.titulowm2 = `NathamBot`
-global.igfg = 'NathamBot';
+global.packname = 'HappyMan';
+global.author = 'HappyMan';
+global.wm = 'HappyMan';
+global.titulowm = 'HappyMan';
+global.titulowm2 = `HappyMan`
+global.igfg = 'HappyMan';
 global.wait = '*[ ⏳ ] Cargando...*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -70,9 +70,9 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\nNathamBot`;
-global.gt = 'NathamBot';
-global.mysticbot = 'NathamBot';
+global.wm2 = `${dia} ${fecha}\nHappyMan`;
+global.gt = 'HappyMan';
+global.mysticbot = 'HappyMan';
 global.md = 'https://www.instagram.com/natham.lara';
 global.mysticbot = 'https://www.instagram.com/natham.lara';
 global.waitt = '*[ ⏳ ] Cargando...*';
